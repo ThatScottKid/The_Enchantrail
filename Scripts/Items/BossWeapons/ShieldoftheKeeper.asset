@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: ShieldoftheKeeper
+  m_EditorClassIdentifier: 
+  ItemName: Shield of the Keeper
+  Value: 10
+  ItemSprite: {fileID: 21300000, guid: c25c8b005cbf54490997e0e87f4be7b2, type: 3}
+  Damage: 0
+  DamageType: {fileID: 11400000, guid: d567dbe3e73ab45208bfd82523de548d, type: 2}
+  isFood: 0
+  isSuperItem: 0
+  AttackAudio: {fileID: 11400000, guid: c28747fbb71b24377a0aff05a7e9aeb5, type: 2}
+  Enchants:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: db3d20dc8aa164e0f94ef4b266be960c, type: 2}
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  EnchantSelf: 1
+  ItemDesc: 
+  EncDesc: Magic Resist, Cloak, Frostbite

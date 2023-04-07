@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: Doughnut
+  m_EditorClassIdentifier: 
+  ItemName: Mighty Doughnut
+  Value: 1
+  ItemSprite: {fileID: 21300000, guid: 2c1aa3a438c3443909dbde10c497d4f7, type: 3}
+  Damage: 2
+  DamageType: {fileID: 11400000, guid: d567dbe3e73ab45208bfd82523de548d, type: 2}
+  isFood: 1
+  isSuperItem: 0
+  AttackAudio: {fileID: 0}
+  Enchants:
+  - {fileID: 11400000, guid: d2190210432bb4cd68385e020bcfbd3d, type: 2}
+  EnchantSelf: 1
+  ItemDesc: 
+  EncDesc: Begin your next fight with Might

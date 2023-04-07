@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: ThornRing
+  m_EditorClassIdentifier: 
+  ItemName: Thorn Ring
+  Value: 4
+  ItemSprite: {fileID: 21300000, guid: 8e6e66bf9ab0b48089422eace9e996fd, type: 3}
+  Damage: 0
+  DamageType: {fileID: 11400000, guid: 6805bea4a067f4c1680a998df6fe71d2, type: 2}
+  isFood: 0
+  isSuperItem: 1
+  AttackAudio: {fileID: 11400000, guid: 17304ef30927d4a618a546194f17f6d9, type: 2}
+  Enchants:
+  - {fileID: 11400000, guid: 47d7015c14ad14a46b771266553822f7, type: 2}
+  - {fileID: 11400000, guid: c2d3c8fdf44f64462b41a66568fc10ab, type: 2}
+  EnchantSelf: 0
+  ItemDesc: Deal 0 Fire Damage. Apply Burn
+  EncDesc: Infect

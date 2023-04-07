@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: 3 - Mace
+  m_EditorClassIdentifier: 
+  ItemName: Royal Mace
+  Value: 5
+  ItemSprite: {fileID: 21300000, guid: d2a228b07d4ab43748568f40c872cff4, type: 3}
+  Damage: 4
+  DamageType: {fileID: 11400000, guid: dd4a3d0f2da2041ed9581bca19b7471f, type: 2}
+  isFood: 0
+  isSuperItem: 0
+  AttackAudio: {fileID: 11400000, guid: f3147f0bec5f14e9aa8f9b95c8eb77b6, type: 2}
+  Enchants:
+  - {fileID: 11400000, guid: d2190210432bb4cd68385e020bcfbd3d, type: 2}
+  EnchantSelf: 1
+  ItemDesc: 
+  EncDesc: 

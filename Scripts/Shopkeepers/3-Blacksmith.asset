@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e8a7a32dde34840925027545c3d937, type: 3}
+  m_Name: 3-Blacksmith
+  m_EditorClassIdentifier: 
+  ShopkeeperName: Blacksmith
+  CommonItems:
+  - {fileID: 11400000, guid: 3c9cfb2568fd44d37981352c1c47fb89, type: 2}
+  - {fileID: 11400000, guid: 3009518293c7f44478d6210d3ece102c, type: 2}
+  - {fileID: 11400000, guid: 3009518293c7f44478d6210d3ece102c, type: 2}
+  - {fileID: 11400000, guid: c228b8dc54e2f422e95e472aaefa8c4f, type: 2}
+  - {fileID: 11400000, guid: c228b8dc54e2f422e95e472aaefa8c4f, type: 2}
+  - {fileID: 11400000, guid: feb2c0e638ac94a799033906d566acce, type: 2}
+  - {fileID: 11400000, guid: 3ad11d8944f7449daa0afc096e197ef2, type: 2}
+  - {fileID: 11400000, guid: 8d25efae7013a445b843cfd56d4bc213, type: 2}
+  - {fileID: 11400000, guid: 3ff1b5b35ef5f46538a6f385cdfa1e38, type: 2}
+  - {fileID: 11400000, guid: 2e3571d0d65364445bb4ad99d524d075, type: 2}
+  - {fileID: 11400000, guid: 379ed8b41f389401ab3f20c5757eabc7, type: 2}
+  - {fileID: 11400000, guid: a318a5f9e9cde4c20aa3971efdfc1368, type: 2}
+  - {fileID: 11400000, guid: e2562dc09fd6e4fea9b7dc20fe66d12a, type: 2}
+  RareItems:
+  - {fileID: 11400000, guid: 33ef6ae0ec1524c628f2efcd48b74e8e, type: 2}
+  - {fileID: 11400000, guid: 33ef6ae0ec1524c628f2efcd48b74e8e, type: 2}
+  - {fileID: 11400000, guid: f40793348f1c54521a966581f6d1f493, type: 2}
+  - {fileID: 11400000, guid: f40793348f1c54521a966581f6d1f493, type: 2}
+  - {fileID: 11400000, guid: 83a2e45442d8a48d5a87308800b250e0, type: 2}
+  - {fileID: 11400000, guid: 579a186676eab4f3d8557ce521731b4f, type: 2}

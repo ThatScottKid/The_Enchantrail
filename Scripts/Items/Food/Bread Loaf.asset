@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: Bread Loaf
+  m_EditorClassIdentifier: 
+  ItemName: Bread Loaf
+  Value: 4
+  ItemSprite: {fileID: 21300000, guid: e59de836f190f46a391a6c0e47e0f6e4, type: 3}
+  Damage: 12
+  DamageType: {fileID: 11400000, guid: d567dbe3e73ab45208bfd82523de548d, type: 2}
+  isFood: 1
+  isSuperItem: 0
+  AttackAudio: {fileID: 0}
+  Enchants: []
+  EnchantSelf: 0
+  ItemDesc: 
+  EncDesc: 

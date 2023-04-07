@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: DarkDagger
+  m_EditorClassIdentifier: 
+  ItemName: Darksteel Dagger
+  Value: 5
+  ItemSprite: {fileID: 21300000, guid: bbe0741245aed4477afa4e7c45d17d1f, type: 3}
+  Damage: 2
+  DamageType: {fileID: 11400000, guid: d67e7fdabc7f9482782006fd15acafcf, type: 2}
+  isFood: 0
+  isSuperItem: 1
+  AttackAudio: {fileID: 11400000, guid: c5bc5230529f84d02a442825a0b5bcb8, type: 2}
+  Enchants:
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  EnchantSelf: 1
+  ItemDesc: 
+  EncDesc: 

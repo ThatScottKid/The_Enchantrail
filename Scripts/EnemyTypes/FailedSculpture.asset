@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: FailedSculpture
+  m_EditorClassIdentifier: 
+  EnemyName: Failed Sculpture
+  EnemySprite: {fileID: 21300000, guid: 35524c24ea76d4325a4c0050cdb7b755, type: 3}
+  MaxHealth: 6
+  EnemyItems:
+  - {fileID: 11400000, guid: 3ad11d8944f7449daa0afc096e197ef2, type: 2}
+  - {fileID: 11400000, guid: a936d61ea8e5c4513adfec78a252ae11, type: 2}
+  Weakness: {fileID: 11400000, guid: 7e4d9d20047bf44a3b24e294b4e71941, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: accd2a1b2d6d8481bbd2b27d7f5dc4f9, type: 2}
+  Loot: []

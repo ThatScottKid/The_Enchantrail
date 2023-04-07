@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Cave - ExanimateVampire
+  m_EditorClassIdentifier: 
+  EnemyName: Exanimate Vampire
+  EnemySprite: {fileID: 21300000, guid: 960c2a2886b1644c8ae0c786d01b58ed, type: 3}
+  MaxHealth: 24
+  EnemyItems:
+  - {fileID: 11400000, guid: 70ddfcd5e7393403985ccf7ff3ed933b, type: 2}
+  - {fileID: 11400000, guid: 205ad7b58bd8840b0b8134548fd35474, type: 2}
+  - {fileID: 11400000, guid: 75a05a8cea1274fd0a747251d7d01a12, type: 2}
+  Weakness: {fileID: 11400000, guid: 292df2882559b4af9bd75091aef74d74, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  isBoss: 1
+  SummonAudio: {fileID: 11400000, guid: 17011ea73e81a4484af95d64830cc3bb, type: 2}
+  Loot:
+  - {fileID: 11400000, guid: 70ddfcd5e7393403985ccf7ff3ed933b, type: 2}

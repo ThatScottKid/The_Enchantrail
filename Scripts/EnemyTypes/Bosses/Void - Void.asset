@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Void - Void
+  m_EditorClassIdentifier: 
+  EnemyName: '[Void]'
+  EnemySprite: {fileID: 21300000, guid: 4a1fe761bf76d47c48467703fbe1e017, type: 3}
+  MaxHealth: 30
+  EnemyItems:
+  - {fileID: 11400000, guid: 264fbec46f2394399b5f11d912cf43ca, type: 2}
+  - {fileID: 11400000, guid: 63ede204991ff4482a14c640f0bb7296, type: 2}
+  - {fileID: 11400000, guid: c8d71eecbf2fb4f1c8a2d285d065d239, type: 2}
+  Weakness: {fileID: 0}
+  StartingStats:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  isBoss: 1
+  SummonAudio: {fileID: 11400000, guid: f00742898f85646558ae4c96e9ded505, type: 2}
+  Loot:
+  - {fileID: 11400000, guid: c8d71eecbf2fb4f1c8a2d285d065d239, type: 2}

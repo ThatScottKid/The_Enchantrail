@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: DeepDarkJellyfish
+  m_EditorClassIdentifier: 
+  EnemyName: Deep Dark Jellyfish
+  EnemySprite: {fileID: 21300000, guid: 365f0483083384ea3857e9a6f4660d0d, type: 3}
+  MaxHealth: 5
+  EnemyItems:
+  - {fileID: 11400000, guid: e2a170d1788e9426f9278d26cde3db5a, type: 2}
+  Weakness: {fileID: 11400000, guid: dd4a3d0f2da2041ed9581bca19b7471f, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 9b7b27f84cbaa4db9ac9813a11bfd3b5, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: 36c61c5033b2249ff8da52aaf38fd4da, type: 2}
+  Loot: []

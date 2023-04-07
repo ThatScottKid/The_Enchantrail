@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: WoodlandShaman
+  m_EditorClassIdentifier: 
+  EnemyName: Woodland Shaman
+  EnemySprite: {fileID: 21300000, guid: 4408cbc23fa724f6ebe0dfa8763a4f2e, type: 3}
+  MaxHealth: 5
+  EnemyItems:
+  - {fileID: 11400000, guid: f1ff934868c8c40b4b59e048b0849cd4, type: 2}
+  - {fileID: 11400000, guid: 205ad7b58bd8840b0b8134548fd35474, type: 2}
+  Weakness: {fileID: 11400000, guid: c6a1f740e92f742bc9aedace55a60077, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: 17011ea73e81a4484af95d64830cc3bb, type: 2}
+  Loot: []

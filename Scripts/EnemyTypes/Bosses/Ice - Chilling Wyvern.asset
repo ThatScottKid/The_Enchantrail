@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Ice - Chilling Wyvern
+  m_EditorClassIdentifier: 
+  EnemyName: Chilling Wyvern
+  EnemySprite: {fileID: 21300000, guid: 1db6def621f09467380ad6183ee1c70f, type: 3}
+  MaxHealth: 27
+  EnemyItems:
+  - {fileID: 11400000, guid: 9ccda0c05fb6c4873b475b5a6c1d0bcf, type: 2}
+  - {fileID: 11400000, guid: 622ccdd1449ac40fb8b565c1496e94d9, type: 2}
+  - {fileID: 11400000, guid: 8e891c7be17214dc3890da48a0a13f2f, type: 2}
+  Weakness: {fileID: 11400000, guid: 6805bea4a067f4c1680a998df6fe71d2, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  isBoss: 1
+  SummonAudio: {fileID: 11400000, guid: fe9490976a37548e4adf5905b3c31ad0, type: 2}
+  Loot:
+  - {fileID: 11400000, guid: 9ccda0c05fb6c4873b475b5a6c1d0bcf, type: 2}

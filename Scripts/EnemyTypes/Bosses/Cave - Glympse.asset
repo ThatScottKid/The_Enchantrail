@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Cave - Glympse
+  m_EditorClassIdentifier: 
+  EnemyName: Glympse
+  EnemySprite: {fileID: 21300000, guid: 13811ffa089e443e6b4ad80dc4c9e343, type: 3}
+  MaxHealth: 23
+  EnemyItems:
+  - {fileID: 11400000, guid: da755db5789e44f18aa3c8d64cd8ef6c, type: 2}
+  - {fileID: 11400000, guid: 75a05a8cea1274fd0a747251d7d01a12, type: 2}
+  - {fileID: 11400000, guid: 6700e2f6543c54a0b8a2eff8ff613b6c, type: 2}
+  Weakness: {fileID: 11400000, guid: c6a1f740e92f742bc9aedace55a60077, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  isBoss: 1
+  SummonAudio: {fileID: 11400000, guid: 6f676d374bced43d1824d5f320f935bd, type: 2}
+  Loot:
+  - {fileID: 11400000, guid: da755db5789e44f18aa3c8d64cd8ef6c, type: 2}

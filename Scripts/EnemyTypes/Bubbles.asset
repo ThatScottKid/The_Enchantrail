@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Bubbles
+  m_EditorClassIdentifier: 
+  EnemyName: Bubbles
+  EnemySprite: {fileID: 21300000, guid: 1edf8165cfe2e405cacce4d8caab521d, type: 3}
+  MaxHealth: 8
+  EnemyItems:
+  - {fileID: 11400000, guid: e2a170d1788e9426f9278d26cde3db5a, type: 2}
+  - {fileID: 11400000, guid: feb2c0e638ac94a799033906d566acce, type: 2}
+  Weakness: {fileID: 11400000, guid: 292df2882559b4af9bd75091aef74d74, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 828ae24413ca6498caab718bf4351467, type: 2}
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: 6f676d374bced43d1824d5f320f935bd, type: 2}
+  Loot: []

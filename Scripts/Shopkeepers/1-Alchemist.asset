@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e8a7a32dde34840925027545c3d937, type: 3}
+  m_Name: 1-Alchemist
+  m_EditorClassIdentifier: 
+  ShopkeeperName: Alchemist
+  CommonItems:
+  - {fileID: 11400000, guid: 0a81ba4be5e8f4c6b8d47fe7a357f36d, type: 2}
+  - {fileID: 11400000, guid: ccb49b4da34d74a658e82c1262133635, type: 2}
+  - {fileID: 11400000, guid: ccb49b4da34d74a658e82c1262133635, type: 2}
+  - {fileID: 11400000, guid: bd7b82391e9b1490a8f3f8427deabd3d, type: 2}
+  - {fileID: 11400000, guid: bd7b82391e9b1490a8f3f8427deabd3d, type: 2}
+  - {fileID: 11400000, guid: 4515532fde170430a848889d80794e93, type: 2}
+  - {fileID: 11400000, guid: 33f69f623aa3f4cbab79704225821a93, type: 2}
+  - {fileID: 11400000, guid: 8d25efae7013a445b843cfd56d4bc213, type: 2}
+  RareItems:
+  - {fileID: 11400000, guid: 816c146a1f37147a1bc00c0f8a2f46d0, type: 2}
+  - {fileID: 11400000, guid: 816c146a1f37147a1bc00c0f8a2f46d0, type: 2}
+  - {fileID: 11400000, guid: 65affa2dc74444235af0ed467f00dc1a, type: 2}
+  - {fileID: 11400000, guid: 65affa2dc74444235af0ed467f00dc1a, type: 2}
+  - {fileID: 11400000, guid: c3e555a00d10f4ca5a036296a195366e, type: 2}
+  - {fileID: 11400000, guid: 09dbdf8ccdc0a4f8796d708e0cb768e0, type: 2}

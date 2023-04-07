@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64912aafa2d42407da7700bd89a3d12f, type: 3}
+  m_Name: PhysicalResist
+  m_EditorClassIdentifier: 
+  StatName: Physical Resistance
+  StatSprite: {fileID: 21300000, guid: 0623d6a295a5a2c43a4d196e029299b9, type: 3}
+  StatCol: {r: 0, g: 0, b: 0, a: 0}
+  effect: {fileID: 11400000, guid: 6dcfb0a8f4f9644d0b5e39a56e4564e5, type: 2}
+  condition: {fileID: 11400000, guid: 85d76f9d3040b4704aa027801842c04e, type: 2}
+  Effector: 1
+  defenceCheck: 1
+  isPersistent: 1

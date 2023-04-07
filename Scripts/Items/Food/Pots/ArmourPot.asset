@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76c7e03027449f7bd2de8e8e7724a4, type: 3}
+  m_Name: ArmourPot
+  m_EditorClassIdentifier: 
+  ItemName: Armour Potion
+  Value: 5
+  ItemSprite: {fileID: 21300000, guid: e98e354b08d884ef1a9979aa90c7d337, type: 3}
+  Damage: 0
+  DamageType: {fileID: 11400000, guid: d567dbe3e73ab45208bfd82523de548d, type: 2}
+  isFood: 1
+  isSuperItem: 0
+  AttackAudio: {fileID: 0}
+  Enchants:
+  - {fileID: 11400000, guid: 311c1b7a1637246bca594024bcebbbd1, type: 2}
+  EnchantSelf: 1
+  ItemDesc: 
+  EncDesc: Begin your next fight with Physical Resistance

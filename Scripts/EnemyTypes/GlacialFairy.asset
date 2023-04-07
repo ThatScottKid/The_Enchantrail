@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: GlacialFairy
+  m_EditorClassIdentifier: 
+  EnemyName: Glacial Fairy
+  EnemySprite: {fileID: 21300000, guid: c299a874afe8f4e06b955d55f4724a7f, type: 3}
+  MaxHealth: 6
+  EnemyItems:
+  - {fileID: 11400000, guid: 3e40ec8a0dd374109b42f19fcb841742, type: 2}
+  - {fileID: 11400000, guid: 622ccdd1449ac40fb8b565c1496e94d9, type: 2}
+  Weakness: {fileID: 11400000, guid: dd4a3d0f2da2041ed9581bca19b7471f, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: d1df24e9512174f5d9789366c6a9494f, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: e399ff5fcd99543eaae847e5706ce52c, type: 2}
+  Loot: []

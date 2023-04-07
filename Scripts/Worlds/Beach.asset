@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d8433bebfe854699844f42bd2d7b7a7, type: 3}
+  m_Name: Beach
+  m_EditorClassIdentifier: 
+  WorldName: Beach
+  EnemyTypes:
+  - {fileID: 11400000, guid: 19c4a0914288f488590858c905690b4a, type: 2}
+  - {fileID: 11400000, guid: a9c19e6f031324a52bfd11a003730c40, type: 2}
+  - {fileID: 11400000, guid: 73ddf79f2685d42eca1081eebc817c43, type: 2}
+  - {fileID: 11400000, guid: 9f2f2fba1d7934a959850601789bbb5e, type: 2}
+  - {fileID: 11400000, guid: 8fd80925857aa478e9dc7a4620cc4ec4, type: 2}
+  - {fileID: 11400000, guid: db32b4abcceea41e2a1a4ee8d5f0eaeb, type: 2}
+  Bosses:
+  - {fileID: 11400000, guid: aec88c26eba464c1086387109586c513, type: 2}
+  - {fileID: 11400000, guid: f0f695850ea0f48ca8885349bf36a842, type: 2}
+  BG: {fileID: 21300000, guid: c6f12021d150a8845a635beec5aa8034, type: 3}

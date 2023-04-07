@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: Forge - Forgemaster
+  m_EditorClassIdentifier: 
+  EnemyName: The Forgemaster
+  EnemySprite: {fileID: 21300000, guid: f3596f074611f43cca771cefd24963a5, type: 3}
+  MaxHealth: 25
+  EnemyItems:
+  - {fileID: 11400000, guid: f3045338ac15340e1a76fef6a4194b7a, type: 2}
+  - {fileID: 11400000, guid: 3c6439f06edbf44da934f47aa0494a50, type: 2}
+  - {fileID: 11400000, guid: 3ad11d8944f7449daa0afc096e197ef2, type: 2}
+  Weakness: {fileID: 11400000, guid: c6a1f740e92f742bc9aedace55a60077, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: d2190210432bb4cd68385e020bcfbd3d, type: 2}
+  isBoss: 1
+  SummonAudio: {fileID: 11400000, guid: f00742898f85646558ae4c96e9ded505, type: 2}
+  Loot:
+  - {fileID: 11400000, guid: f3045338ac15340e1a76fef6a4194b7a, type: 2}

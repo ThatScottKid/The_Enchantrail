@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3db9143b891a4bd4b7776fef48ae07a, type: 3}
+  m_Name: UnderseaClam
+  m_EditorClassIdentifier: 
+  EnemyName: Undersea Clam
+  EnemySprite: {fileID: 21300000, guid: 7ec4bb69ad75a4722bf4166b16fcb396, type: 3}
+  MaxHealth: 6
+  EnemyItems:
+  - {fileID: 11400000, guid: feb2c0e638ac94a799033906d566acce, type: 2}
+  - {fileID: 11400000, guid: e2a170d1788e9426f9278d26cde3db5a, type: 2}
+  Weakness: {fileID: 11400000, guid: dd4a3d0f2da2041ed9581bca19b7471f, type: 2}
+  StartingStats:
+  - {fileID: 11400000, guid: 1a7ab76e45346486ea56f8129a9f9698, type: 2}
+  isBoss: 0
+  SummonAudio: {fileID: 11400000, guid: 457c454ec10bc4397b8d4c11879fe90f, type: 2}
+  Loot: []
